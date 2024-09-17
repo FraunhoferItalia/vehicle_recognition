@@ -5,7 +5,7 @@
   <version>0.0.1</version>
   <description>vehicle_recognition package</description>
   <maintainer email="carlo.morganti@fraunhofer.it">root</maintainer>
-  <license>Copyright Fraunhofer Italia 2024</license>
+  <license>Apache 2.0</license>
 
   <depend>ament_cmake</depend>
 
