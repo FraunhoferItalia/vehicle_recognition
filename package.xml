@@ -4,7 +4,8 @@
   <name>vehicle_recognition</name>
   <version>0.0.1</version>
   <description>vehicle_recognition package</description>
-  <maintainer email="carlo.morganti@fraunhofer.it">root</maintainer>
+  <author>Carlo Morganti</author>
+  <maintainer email="carlo.morganti@fraunhofer.it">Carlo Morganti</maintainer>
   <license>Apache 2.0</license>
 
   <depend>ament_cmake</depend>
